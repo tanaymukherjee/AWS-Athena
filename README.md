@@ -9,7 +9,7 @@ In order to use Athena, all we have to do is load data into S3, tell Athena whic
 - Integrating with Jupyter Notebooks (or other notebook based solutions) for data scientists/analysts for building interactive analytical solutions with data.
 
 
-**Provisioning a Athena Service:**
+### Provisioning a Athena Service:
 **1. Setting up S3 bucket**
 - Because this is your first time using Athena, you will have to create an S3 bucket to hold your athena data.
 - Click on the blue banner to open up the settings dialog. 
